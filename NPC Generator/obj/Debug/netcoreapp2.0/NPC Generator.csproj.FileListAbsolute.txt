@@ -1,0 +1,14 @@
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\NPC Generator.deps.json
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\NPC Generator.runtimeconfig.json
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\NPC Generator.runtimeconfig.dev.json
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\NPC Generator.dll
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\NPC Generator.pdb
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.csprojAssemblyReference.cache
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.csproj.CoreCompileInputs.cache
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.AssemblyInfoInputs.cache
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.AssemblyInfo.cs
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.dll
+c:\users\odyodel\documents\visual studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.pdb
+C:\Users\OdYodel\Documents\Visual Studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\SharedCode.dll
+C:\Users\OdYodel\Documents\Visual Studio 2017\Projects\NPC Generator\NPC Generator\bin\Debug\netcoreapp2.0\SharedCode.pdb
+C:\Users\OdYodel\Documents\Visual Studio 2017\Projects\NPC Generator\NPC Generator\obj\Debug\netcoreapp2.0\NPC Generator.csproj.CopyComplete
